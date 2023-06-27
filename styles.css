@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: mediumpurple;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.stop {
+  background-color: red;
+}

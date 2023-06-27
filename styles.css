@@ -1,13 +1,15 @@
 /*  your css code here. If applicable */
 #buttons {
   text-align: center;
-  margin-top: 20px;
+  margin-top: px;
+	background:mediumpurple;
+	height:300
 }
 
 .btn {
   padding: 10px 20px;
   margin: 5px;
-  background-color: mediumpurple;
+  background-color:blueviolet;
   color: #fff;
   border: none;
   cursor: pointer;
